@@ -122,7 +122,7 @@
 .cart-item-title-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
 .cart-item-title { margin: 0; font: 500 22px/1 "Cormorant Garamond", Georgia, serif; }
 .cart-item-price { margin: 7px 0 13px; color: var(--muted); font-size: 10px; }
-.cart-item-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.cart-item-footer { display: flex; align-items: center; justify-content: flex-end; gap: 12px; }
 .cart-item-controls { display: inline-flex; align-items: center; gap: 11px; }
 .cart-item-controls button {
   width: 24px;
