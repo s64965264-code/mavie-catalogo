@@ -1,13 +1,14 @@
-# Mavie Catálogo
+# Mavie Beauty · Catálogo online
 
-Catálogo editorial responsive, accesible y sin dependencias externas de JavaScript.
+Catálogo responsive de Mavie Beauty, reconstruido a partir del PDF oficial de la marca.
 
 ## Incluye
 
+- Logo original de Mavie Beauty y colorimetría marfil/negro del catálogo.
+- Las 24 páginas originales del PDF: portada y 23 productos.
+- Nombre, precio en quetzales y descripción de cada producto.
+- Búsqueda, filtros por categoría y vista ampliada.
 - Diseño adaptable a móvil, tablet y escritorio.
-- Navegación móvil, búsqueda y filtros por colección.
-- Detalle de piezas en ventana modal.
-- Soporte para teclado, foco visible y `prefers-reduced-motion`.
-- Tipografía y composición optimizadas para una carga rápida.
+- Navegación móvil, foco visible y soporte para `prefers-reduced-motion`.
 
-El archivo `index.html` es el punto de entrada técnico que necesita GitHub Pages; el nombre visible del sitio es **Mavie Catálogo**.
+El archivo `index.html` es el punto de entrada técnico de GitHub Pages; el nombre visible del sitio es **Mavie Beauty · Catálogo**.
